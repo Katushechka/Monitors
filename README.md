@@ -1,7 +1,10 @@
 # Monitors
 The main goal of this assignment are to learn and implement the follow concepts of multithreading:
+
 -Monitors as synchronization mechanisms.
+
 -Bounded buffer as shared resource for communication between multiple threads.
+
 -Producer/Consumer and Writer/Reader patterns
 
 Description:
