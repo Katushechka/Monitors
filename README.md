@@ -7,10 +7,14 @@ The main goal of this assignment are to learn and implement the follow concepts 
 
 -Producer/Consumer and Writer/Reader patterns
 
+
+
 Description:
 an application that reads the contents of a file from a source into the memory, let the user manipulate the text (search
 and replace) and copy to a destination file. The acts of reading, modifying and writing to file must take place by threads at the same
 time. Although it is possible to implement the Producer/Consumer model for the solution, a Writer/Reader scenario is recommended.
+
+
 
 
 
