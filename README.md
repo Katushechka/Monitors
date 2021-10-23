@@ -9,6 +9,8 @@ The main goal of this assignment are to learn and implement the follow concepts 
 
 
 
+
+
 Description:
 
 an application that reads the contents of a file from a source into the memory, let the user manipulate the text (search
