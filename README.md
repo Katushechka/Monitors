@@ -22,4 +22,4 @@ For reading from the text file press the button "Read".
 
 In the window "Find " write a word that should be replaced. In the window "Replace" write a new word.
 
-Press the button "Create the destination file" - replace operation will be performed.
+Press the button "Create the destination file" - replace operation will be performed. 
