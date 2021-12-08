@@ -1,5 +1,5 @@
 # Monitors
-The main goal of this assignment are to learn and implement the follow concepts of multithreading:
+The main goals of this project are to learn and implement the follow concepts of multithreading:
 
 -Monitors as synchronization mechanisms.
 
